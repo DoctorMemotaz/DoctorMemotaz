@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <code>"Code is the anatomy. Data is the blood. I am the surgeon."</code>
+  <code>"-"</code>
 </p>
